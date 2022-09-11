@@ -1,0 +1,15 @@
+C:\Users\thorp\Desktop\MSSA\Big Projects\Mortgage Calculator\MortgageCalculator\MortgageCalculator\bin\Debug\net6.0\MortgageCalculator.exe
+C:\Users\thorp\Desktop\MSSA\Big Projects\Mortgage Calculator\MortgageCalculator\MortgageCalculator\bin\Debug\net6.0\MortgageCalculator.deps.json
+C:\Users\thorp\Desktop\MSSA\Big Projects\Mortgage Calculator\MortgageCalculator\MortgageCalculator\bin\Debug\net6.0\MortgageCalculator.runtimeconfig.json
+C:\Users\thorp\Desktop\MSSA\Big Projects\Mortgage Calculator\MortgageCalculator\MortgageCalculator\bin\Debug\net6.0\MortgageCalculator.dll
+C:\Users\thorp\Desktop\MSSA\Big Projects\Mortgage Calculator\MortgageCalculator\MortgageCalculator\bin\Debug\net6.0\MortgageCalculator.pdb
+C:\Users\thorp\Desktop\MSSA\Big Projects\Mortgage Calculator\MortgageCalculator\MortgageCalculator\obj\Debug\net6.0\MortgageCalculator.csproj.AssemblyReference.cache
+C:\Users\thorp\Desktop\MSSA\Big Projects\Mortgage Calculator\MortgageCalculator\MortgageCalculator\obj\Debug\net6.0\MortgageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thorp\Desktop\MSSA\Big Projects\Mortgage Calculator\MortgageCalculator\MortgageCalculator\obj\Debug\net6.0\MortgageCalculator.AssemblyInfoInputs.cache
+C:\Users\thorp\Desktop\MSSA\Big Projects\Mortgage Calculator\MortgageCalculator\MortgageCalculator\obj\Debug\net6.0\MortgageCalculator.AssemblyInfo.cs
+C:\Users\thorp\Desktop\MSSA\Big Projects\Mortgage Calculator\MortgageCalculator\MortgageCalculator\obj\Debug\net6.0\MortgageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\thorp\Desktop\MSSA\Big Projects\Mortgage Calculator\MortgageCalculator\MortgageCalculator\obj\Debug\net6.0\MortgageCalculator.dll
+C:\Users\thorp\Desktop\MSSA\Big Projects\Mortgage Calculator\MortgageCalculator\MortgageCalculator\obj\Debug\net6.0\refint\MortgageCalculator.dll
+C:\Users\thorp\Desktop\MSSA\Big Projects\Mortgage Calculator\MortgageCalculator\MortgageCalculator\obj\Debug\net6.0\MortgageCalculator.pdb
+C:\Users\thorp\Desktop\MSSA\Big Projects\Mortgage Calculator\MortgageCalculator\MortgageCalculator\obj\Debug\net6.0\MortgageCalculator.genruntimeconfig.cache
+C:\Users\thorp\Desktop\MSSA\Big Projects\Mortgage Calculator\MortgageCalculator\MortgageCalculator\obj\Debug\net6.0\ref\MortgageCalculator.dll
